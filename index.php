@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=\, initial-scale=1.0">
     <title>CinePhile</title>
 </head>
-<body style="background-color:black;color:white;" >
+<body style="background-color:black;font-color:white;" >
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.php" style="color:rgb(189, 10, 10)"> CinePhile</a>
@@ -82,7 +82,8 @@
   </div>
   <div class="container">
       <div class="row">
-          <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+      <div class="col"></div>
+          <div class="col">
             
             <table class="table table-borderless">
                 <tr>
