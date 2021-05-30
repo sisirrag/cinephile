@@ -82,7 +82,24 @@
   </div>
   <div class="container">
       <div class="row">
-      <div class="col"></div>
+      <div class="col">
+      <h1 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:30px;color:rgb(17, 0, 12);"><center>
+            <b> Trending</b> Movies</center></h1>
+<ul class="list-group">
+    <br>
+
+    
+  
+    <li class="list-group-item list-group-item-secondary"> Interstellar</li>
+    <li class="list-group-item list-group-item-dark">Inception</li>
+    <li class="list-group-item list-group-item-secondary">Prestige</li>
+    <li class="list-group-item list-group-item-dark">Predestination</li>
+    <li class="list-group-item list-group-item-secondary">Eternal Sunshine of the spotless mind</li>
+    <li class="list-group-item list-group-item-dark">Trainspotting</li>
+    <li class="list-group-item list-group-item-secondary">Drive</li>
+    <li class="list-group-item list-group-item-dark">Enemy</li>
+  </ul>
+      </div>
           <div class="col">
             
             <table class="table table-borderless">
@@ -104,28 +121,14 @@
                        </tr>
             </table>
           </div>
+          
       </div>
   </div>
   <div class="container">
     <div class="row">
         <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
           <br>
-          <h1 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:30px;color:rgb(17, 0, 12);"><center>
-            <b> Trending</b> Movies</center></h1>
-<ul class="list-group">
-    <br>
-
-    
-  
-    <li class="list-group-item list-group-item-secondary"> Interstellar</li>
-    <li class="list-group-item list-group-item-dark">Inception</li>
-    <li class="list-group-item list-group-item-secondary">Prestige</li>
-    <li class="list-group-item list-group-item-dark">Predestination</li>
-    <li class="list-group-item list-group-item-secondary">Eternal Sunshine of the spotless mind</li>
-    <li class="list-group-item list-group-item-dark">Trainspotting</li>
-    <li class="list-group-item list-group-item-secondary">Drive</li>
-    <li class="list-group-item list-group-item-dark">Enemy</li>
-  </ul>
+          
 </div>
 </div>
 </div>
