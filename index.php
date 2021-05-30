@@ -108,11 +108,11 @@
                     <td><h1>CinePhile <span class="badge bg-danger">  Login</span></h1>
                   </tr>
                        <tr>
-                          <td><center style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:20px;color:light;">Username</center></td>
+                          <td><center style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:20px;color:white;">Username</center></td>
                            <td><input type="text" class="form-control"></td>
                        </tr>
                        <tr>
-                           <td><center style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:20px;color:light;">Password</center></td>
+                           <td><center style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:20px;color:white;">Password</center></td>
                            <td><input type="text" class="form-control"></td>
                        </tr>
                        <tr>
