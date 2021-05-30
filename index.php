@@ -83,7 +83,7 @@
   <div class="container">
       <div class="row">
       <div class="col">
-      <h1 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:30px;color:rgb(17, 0, 12);"><center>
+      <h1 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:30px;color:white;"><center>
             <b> Trending</b> Movies</center></h1>
 <ul class="list-group">
     <br>
@@ -108,16 +108,16 @@
                     <td><h1>CinePhile <span class="badge bg-danger">  Login</span></h1>
                   </tr>
                        <tr>
-                          <td><center style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:20px;color:Dark;">Username</center></td>
+                          <td><center style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:20px;color:light;">Username</center></td>
                            <td><input type="text" class="form-control"></td>
                        </tr>
                        <tr>
-                           <td><center style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:20px;color:Dark;">Password</center></td>
+                           <td><center style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:20px;color:light;">Password</center></td>
                            <td><input type="text" class="form-control"></td>
                        </tr>
                        <tr>
                            <td></td>
-                           <td><button class="btn btn-outline-dark">Submit</button></td>
+                           <td><button class="btn btn-outline-light">Submit</button></td>
                        </tr>
             </table>
           </div>
